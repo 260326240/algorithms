@@ -13,9 +13,6 @@
 注意：大数据longlong的输入输出。
 ##代码
     #include< iostream>
-    #include< cstdio>
-    #include< cstring>
-    #include< algorithm>
     using namespace std;
     int main()
     {
