@@ -1,4 +1,4 @@
-#A Math Problem
+# A Math Problem
 [题目链接](http://acm.hdu.edu.cn/showproblem.php?pid=6182)
 
 Time Limit: 2000/1000 MS (Java/Others)    Memory Limit: 32768/32768 K (Java/Others)
